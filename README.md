@@ -1,1 +1,3 @@
-If it's difficult to use a tool, the tool is at fault. Not the user. I am building tools that users can pick up and use intuitively, no 40 page manuals here - only 4000 lines of  procedural code 🙃 Don't frown at my code, anything I write today will be be re-written in 18 months. So, let's just be nice to each other, because, we will be around for lot longer than that 🤞
+**Arun Subramaniam**
+ - [LinkedIn](https://www.linkedin.com/in/-arun/)
+ - [Instagram (art)](https://www.instagram.com/_sketch_a_bit_/)
